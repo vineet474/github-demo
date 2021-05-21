@@ -7,5 +7,6 @@ A simple demo repository to show basic git workflow
 This read me file shows the purpose of the Git.
 
 ## Deployment
+To add deployment sequence.
 
 ## How to contribute
