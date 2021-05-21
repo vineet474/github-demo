@@ -1,1 +1,2 @@
 This is the third file that i have added.
+Added this line for automatic merge.
