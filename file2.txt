@@ -1,4 +1,5 @@
 This is the second file that I have added.
 Adding 2nd line to this file in mynewbranch to merge into MAIN branch
 Adding changes for REBASING conflict.
+These changes I have done under mynewbranch for REBASING CONFLICT.
 Adding another line of changes for REBASING conflict.
