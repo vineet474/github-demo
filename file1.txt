@@ -7,3 +7,4 @@ Adding line for automatic merging.
 Adding line for rebasing example.
 TESTING SIMPLE REBASING EXAMPLE. CONFIRMED
 Changing this file while start.txt is stashed.
+Testing mutiple stashes.
