@@ -11,4 +11,4 @@ This read me file shows the purpose of the Git.
 To add deployment sequence.
 
 ## How to contribute
-To add How to contribute section.
+Steps on how to contribute.
