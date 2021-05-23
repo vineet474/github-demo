@@ -1,1 +1,2 @@
-A sample test file
+A sample test file, changed
+Adding another line to test merge conflict
