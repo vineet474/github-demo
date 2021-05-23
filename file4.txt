@@ -1,2 +1,3 @@
 this is the fourth file
 Testing REBASING.
+Testing REBASING after resbasing from MAIN.
