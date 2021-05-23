@@ -6,3 +6,4 @@ Adding the Fifth line into mynewbranch to be merged into MAIN branch
 Adding line for automatic merging.
 Adding line for rebasing example.
 TESTING SIMPLE REBASING EXAMPLE. CONFIRMED
+Changing this file while start.txt is stashed.
